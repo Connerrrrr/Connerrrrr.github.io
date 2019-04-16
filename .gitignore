@@ -1,2 +1,6 @@
-
+# OS File
 .DS_Store
+
+# localhost bundle
+_site
+.sass-cache
