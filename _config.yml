@@ -17,7 +17,7 @@ title: Siyang(Conner) Shen
 email: siyang.shen@mail.utoronto.ca
 personal_email: connershen98@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Computer Science student from University of Toronto
+  UofT Comp Sci
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
