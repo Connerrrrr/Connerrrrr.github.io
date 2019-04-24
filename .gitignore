@@ -4,3 +4,7 @@
 # localhost bundle
 _site
 .sass-cache
+.bundle
+Gemfile.lock
+_site
+*.gem
