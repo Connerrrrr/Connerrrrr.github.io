@@ -47,7 +47,7 @@ footer-links:
 
 footer-text: Copyright (c) 2020 From Conner
 
-
+google_analytics: UA-180073561-1
 
 permalink: /:title/
 paginate_path: /page:num/
