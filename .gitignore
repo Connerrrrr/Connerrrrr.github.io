@@ -1,10 +1,2 @@
-# OS File
-.DS_Store
-
-# localhost bundle
-_site
-.sass-cache
-.bundle
-Gemfile.lock
-_site
-*.gem
+./jekyll-cache
+./_site

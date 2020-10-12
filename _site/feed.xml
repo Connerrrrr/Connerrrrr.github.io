@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-11T22:11:40-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Siyang(Conner) Shen</title><subtitle>UofT CS Students</subtitle><entry><title type="html">Website</title><link href="http://localhost:4000/web/" rel="alternate" type="text/html" title="Website" /><published>2020-10-11T00:00:00-04:00</published><updated>2020-10-11T00:00:00-04:00</updated><id>http://localhost:4000/web</id><content type="html" xml:base="http://localhost:4000/web/">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultricies nunc diam, eu lacinia enim vestibulum luctus.&lt;/p&gt;
+
+&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce et felis nulla.&lt;/p&gt;
+
+&lt;p&gt;Integer ornare orci eu libero viverra, quis condimentum massa vulputate.&lt;/p&gt;
+
+&lt;h2 id=&quot;vulputate&quot;&gt;vulputate&lt;/h2&gt;
+
+&lt;p&gt;Pellentesque egestas volutpat &lt;strong&gt;facilisis&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Maecenas et urna fermentum, hendrerit neque sed, vehicula arcu.&lt;/p&gt;
+
+&lt;h2 id=&quot;class-aptent-taciti-sociosqu-ad-litora-torquent-per-conubia-nostra&quot;&gt;Class aptent taciti sociosqu ad litora torquent per conubia nostra&lt;/h2&gt;
+
+&lt;p&gt;per inceptos himenaeos.&lt;/p&gt;
+
+&lt;h3 id=&quot;sed-ac-diam-eget-ex-ullamcorper-maximus&quot;&gt;Sed ac diam eget ex ullamcorper maximus&lt;/h3&gt;
+
+&lt;h3 id=&quot;curabitur-nunc-arcu&quot;&gt;Curabitur nunc arcu&lt;/h3&gt;
+
+&lt;p&gt;imperdiet vestibulum lacinia in, aliquet vitae justo.&lt;/p&gt;
+
+&lt;p&gt;Etiam pretium tincidunt ipsum, commodo cursus diam sollicitudin eget.&lt;/p&gt;
+
+&lt;p&gt;Morbi eu commodo justo, non blandit tellus. Nulla sagittis molestie turpis at vulputate.&lt;/p&gt;</content><author><name>Conner</name></author><category term="Project" /><category term="Web" /><summary type="html">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultricies nunc diam, eu lacinia enim vestibulum luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce et felis nulla. Integer ornare orci eu libero viverra, quis condimentum massa vulputate. vulputate Pellentesque egestas volutpat facilisis. Maecenas et urna fermentum, hendrerit neque sed, vehicula arcu. Class aptent taciti sociosqu ad litora torquent per conubia nostra per inceptos himenaeos. Sed ac diam eget ex ullamcorper maximus Curabitur nunc arcu imperdiet vestibulum lacinia in, aliquet vitae justo. Etiam pretium tincidunt ipsum, commodo cursus diam sollicitudin eget. Morbi eu commodo justo, non blandit tellus. Nulla sagittis molestie turpis at vulputate.</summary></entry></feed>
