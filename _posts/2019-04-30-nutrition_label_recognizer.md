@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nutrition Label Recognizer
-date: 2020-04-30
+date: 2019-04-30
 author: Conner
 tags: [Course Work, Web, Full Stack, Project]
 comments: false
