@@ -8,6 +8,9 @@ comments: false
 toc: false
 pinned: false
 ---
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Connerrrrr&repo=nutrition-label-recognizer)](https://github.com/Connerrrrr/nutrition-label-recognizer)
+
 * This is the [repo](https://github.com/Connerrrrr/nutrition-label-recognizer) of the **Full-stack web app** for detecting nutrition label based on uploaded images, formulated as part of three-members-team.
 * Consisted of **MongoDB**, **React** and **Node.js (Express)** following **RESTful API**.
 * Used **Google Optical Character Recognition** (OCR) for detecting and displaying detailed information for each nutrition upon user clicking the name on the input nutrition label image.
