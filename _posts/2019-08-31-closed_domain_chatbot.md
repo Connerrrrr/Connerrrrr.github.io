@@ -3,7 +3,7 @@ layout: post
 title: Closed Domain Chatbot
 date: 2019-08-31
 author: Conner
-tags: [Course Work, Java, Full Stack, Project]
+tags: [Course Work, Java, IBM Waston, Full Stack, Project]
 comments: false
 toc: false
 pinned: false
