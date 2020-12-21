@@ -45,7 +45,7 @@ footer-links:
   twitter: # https://www.twitter.com/<your_twitter_username> 
   youtube: # channel/<your_long_string> or user/<user-name>
 
-footer-text: Copyright (c) 2020 From Conner, Powered by [Jekyll](https://jekyllrb.com/) & [LOFFER](https://github.com/FromEndWorld/LOFFER)
+footer-text: Copyright (c) 2020 From Conner
 
 google_analytics: UA-180073561-1
 
